@@ -19,7 +19,7 @@ Disfruto trabajar en equipo y aprender de mis colegas, para seguir aprendiendo t
   Proyecto backend para un ecommerce, que permite registro de usuarios, carga de categorias, carga de productos, crear ordenes y subir imagenes.
   - Rol: **Backend Developer**
   - Funcionalidades: Autenticación propia, Creacion de categorias, Creacion de productos, Almacenamiento de archivos y Documentación.
-  - - [Repositorio](https://github.com/Tomas-Covas/ecommerce-tomascovas-henry.git)
+  - [Repositorio](https://github.com/Tomas-Covas/ecommerce-tomascovas-henry.git)
 
 - **[Huellitas (Proyecto grupal - Soy Henry, 2025)]**: 
   Huellitas es una aplicación realizada en grupo con la intención de proveer a los usuarios la facilidad de realizar compras de juguetes, accesorios y alimento, además de agendar turnos para sus mascotas en una veterinaria.
